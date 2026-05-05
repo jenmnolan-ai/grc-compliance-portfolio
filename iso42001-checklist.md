@@ -24,3 +24,43 @@ AI risk management and governance in practice means having clear processes, cont
 
 - [About Face: One Woman’s Quest To Make AI Less Biased | NBC News](https://www.youtube.com/watch?v=nXurp5s7n6c)
 - [Amazon scraps AI recruiting tool showing bias against women](https://www.youtube.com/watch?v=QvRZuHQBTps)
+
+## ❌ Status: FAIL
+
+---
+
+## 🔍 Evidence
+
+**Identify Risks**  
+The company has not identified risks included in using AI. No documentation exists to identify risks at this time.
+
+**Assess Impact**  
+The company has not completed an assessment on the impact of their use of AI, particularly upon their customers. While they recently had a breach, no deeper investigation was undertaken to identify impact from this specific report.
+
+**Plan Actions**  
+No documented plan or process is in place for AI use. Informal conversations do not suffice as documentation.
+
+---
+
+## 🧠 Rationale for Failure
+
+The company has some awareness of AI, including a webinar to educate staff, and leadership involvement in AI adoption. However, they are critically lacking documented processes to identify risks, assess impact, and plan actions. Awareness alone does not meet the requirements of ISO 42001, which requires structured, documented, and repeatable processes.
+
+---
+
+## ⚠️ Gap Analysis
+
+There is no documented policy for how the company and staff are expected to engage with AI. An AI Policy would help define acceptable use and governance expectations.
+
+There is no documented risk assessment to determine risks associated with vendor software services that may use AI, or internal use of tools such as ChatGPT. A formal Risk Assessment process is required.
+
+There is no documented plan or process in place for AI use. The company must establish a structured approach that is communicated across the organization, regularly updated, and aligned with FCA regulatory requirements. The planned AI advice feature has not been reviewed against these requirements, and automated decisions affecting customers must be governed and documented.
+
+---
+
+## ✅ Required Artifacts for Compliance
+
+- **AI Policy**
+- **Risk Assessment**
+- **Impact Assessment**
+- **AI Use Plan**
