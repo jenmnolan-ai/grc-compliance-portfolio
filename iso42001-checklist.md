@@ -64,3 +64,32 @@ There is no documented plan or process in place for AI use. The company must est
 - **Risk Assessment**
 - **Impact Assessment**
 - **AI Use Plan**
+
+
+## ❌ Status: CLAUSE 6.2 - Objectives and Planning - FAIL
+
+---
+
+## 🔍 Evidence
+
+There are no documented, measurable objectives for responsible AI use. While a security awareness webinar was provided, it does not meet the requirement for formal objectives, nor is it linked to any documented plan or measurable outcomes.
+
+---
+
+## 🧠 Rationale for Failure
+
+The organization has not established clear or measurable objectives for responsible AI use. There is no evidence of documentation, communication, or planning tied to AI governance. Without defined objectives, the organization lacks direction, accountability, and the ability to measure whether AI is being used responsibly or in alignment with regulatory expectations.
+
+---
+
+## ⚠️ Gap Analysis
+
+There is no formal objective-setting process related to AI use. The organization lacks documented goals, defined success criteria, and alignment between AI initiatives and regulatory or ethical requirements. Additionally, there is no evidence that any expectations around AI use have been communicated to staff or embedded into operational planning.
+
+---
+
+## ✅ Required Artifacts for Compliance
+
+- **Documented, clear, and measurable objectives for responsible AI use**
+- **Evidence that objectives have been communicated across the organization**
+- **A documented plan linking objectives to implementation and measurable outcomes**
