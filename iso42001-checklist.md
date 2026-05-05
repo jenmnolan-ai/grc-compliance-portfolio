@@ -25,7 +25,7 @@ AI risk management and governance in practice means having clear processes, cont
 - [About Face: One Woman’s Quest To Make AI Less Biased | NBC News](https://www.youtube.com/watch?v=nXurp5s7n6c)
 - [Amazon scraps AI recruiting tool showing bias against women](https://www.youtube.com/watch?v=QvRZuHQBTps)
 
-## ❌ Status: CLAUSE 6.1 - FAIL
+## ❌ Status: CLAUSE 6.1 - Actions to Address AI Risks and Opportunities - FAIL
 
 ---
 
