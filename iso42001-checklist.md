@@ -93,3 +93,20 @@ There is no formal objective-setting process related to AI use. The organization
 - **Documented, clear, and measurable objectives for responsible AI use**
 - **Evidence that objectives have been communicated across the organization**
 - **A documented plan linking objectives to implementation and measurable outcomes**
+
+
+## ❌ STATUS: CLAUSE 8.2 - AI Risk Assessment - FAIL
+
+---
+
+## 🔍 Evidence
+
+1. **Finance team AI tool** - Draftwise is used after a 15-minute demo. There is no documented evidence of any security or data review prior to its use.
+
+2. **ChatGPT use** - Staff are pasting customer financial data into ChatGPT. There is no evidence of a use policy or any review of how this data is handled.
+
+3. **Data incident** - A breach occurred, yet there is no evidence of an incident review or root cause analysis.
+
+
+
+
