@@ -168,7 +168,9 @@ There is no documented inventory of AI systems, no description of their purpose,
 
 ## Summary
 
-SecureNow Ltd demonstrates a lack of evidence, documentation, and adherence to FCA requirements in its use of AI. This can be remedied by documenting and formalizing the following missing items:
+**SecureNow Ltd demonstrates a lack of evidence, documentation, and adherence to FCA requirements in its use of AI, resulting in significant governance and regulatory risk.** 
+
+This can be remedied by documenting and formalizing the following missing items:
 
 ## Missing Items
 
@@ -183,4 +185,4 @@ SecureNow Ltd demonstrates a lack of evidence, documentation, and adherence to F
 9. Incident response and root cause analysis process  
 10. Alignment with FCA regulatory requirements  
 
-SecureNow Ltd demonstrates a lack of evidence, documentation, and adherence to FCA requirements in its use of AI, resulting in significant governance and regulatory risk.
+
