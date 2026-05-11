@@ -1,4 +1,4 @@
-# ISO 42001
+# ISO 42001 AI Management System Assessment
 
 ## ❓ What is it?
 
