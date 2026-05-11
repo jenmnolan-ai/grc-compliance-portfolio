@@ -162,3 +162,23 @@ There is no documented inventory of AI systems, no description of their purpose,
 - **Description of data inputs and outputs**
 - **Explanation of how AI-driven decisions are made (especially for customer-facing systems)**
 - **Defined ownership and accountability for each AI system**
+
+
+---
+
+## Summary
+
+SecureNow Ltd demonstrates a lack of evidence, documentation, and adherence to FCA requirements in its use of AI. This can be remedied by documenting and formalizing the following missing items:
+
+## Missing Items
+
+1. AI Policy for acceptable use and governance  
+2. Documented, measurable objectives for AI use  
+3. Formal AI Risk Assessment process  
+4. Risk and impact assessments for tools (ChatGPT, Draftwise)  
+5. AI system inventory and documentation  
+6. Explanation of AI decision-making (especially customer-facing)  
+7. Defined ownership and accountability for AI systems  
+8. Data handling policy for use of AI tools  
+9. Incident response and root cause analysis process  
+10. Alignment with FCA regulatory requirements  
