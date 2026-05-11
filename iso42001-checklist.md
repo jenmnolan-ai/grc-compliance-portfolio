@@ -107,6 +107,26 @@ There is no formal objective-setting process related to AI use. The organization
 
 3. **Data incident** - A breach occurred, yet there is no evidence of an incident review or root cause analysis.
 
+---
+
+## 🧠 Rationale for Failure
+
+The company is using multiple AI systems without conducting any formal, documented risk assessments. There is no evidence that risks were evaluated prior to use, nor after a known data incident occurred. This demonstrates that risk assessment is not part of their process, which is required under Clause 8.2.
+
+---
+
+## ⚠️ Gap Analysis
+
+There is no documented process in place for conducting AI risk assessments. The company is not evaluating risks before adopting AI tools, nor reviewing incidents to understand impact or prevent recurrence. This results in unmanaged risk across systems that handle sensitive customer data.
+
+---
+
+## ✅ Required Artifacts for Compliance
+
+- **Documented, formal risk assessments for all AI systems in use**
+- **Risk assessments for specific tools, including ChatGPT and Draftwise**
+- **A defined process for conducting and reviewing AI risk assessments**
+- **Incident review and root cause analysis process for AI-related events**
 
 
 
