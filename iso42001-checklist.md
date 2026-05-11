@@ -129,4 +129,36 @@ There is no documented process in place for conducting AI risk assessments. The 
 - **Incident review and root cause analysis process for AI-related events**
 
 
+## ❌ STATUS: CLAUSE 8.4 - AI System Documentation and Transparency - FAIL
 
+---
+
+## 🔍 Evidence
+
+- There is no documentation of AI systems being utilized across the organization.
+
+- If audited or required to explain AI use to the FCA, there is currently no supporting evidence to provide documentation, decision logic, or data usage.
+
+- The planned AI advice feature is not aligned to FCA expectations, and there is no documented explanation of how decisions will be made or communicated to customers.
+
+---
+
+## 🧠 Rationale for Failure
+
+The company does not maintain any documentation for the AI systems it is using or planning to implement. There is no evidence of transparency regarding how these systems function, what data they process, or how decisions are made. Without this, the organization would be unable to explain or justify AI-driven outcomes to regulators or affected customers, which is a key requirement under Clause 8.4.
+
+---
+
+## ⚠️ Gap Analysis
+
+There is no documented inventory of AI systems, no description of their purpose, no record of data inputs, and no explanation of how decisions are generated. Additionally, there is no defined ownership or accountability for AI systems. This results in a complete lack of transparency and an inability to meet regulatory expectations, particularly under FCA requirements for explainability.
+
+---
+
+## ✅ Required Artifacts for Compliance
+
+- **AI system inventory (what tools are used and where)**
+- **Documentation of each system’s purpose and functionality**
+- **Description of data inputs and outputs**
+- **Explanation of how AI-driven decisions are made (especially for customer-facing systems)**
+- **Defined ownership and accountability for each AI system**
