@@ -182,3 +182,5 @@ SecureNow Ltd demonstrates a lack of evidence, documentation, and adherence to F
 8. Data handling policy for use of AI tools  
 9. Incident response and root cause analysis process  
 10. Alignment with FCA regulatory requirements  
+
+SecureNow Ltd demonstrates a lack of evidence, documentation, and adherence to FCA requirements in its use of AI, resulting in significant governance and regulatory risk.
